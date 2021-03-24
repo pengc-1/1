@@ -9,9 +9,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git helloworld https://github.com/fw876/helloworld
 #src-git kenzo https://github.com/kenzok8/openwrt-packages 
-src-git small https://github.com/kenzok8/small
-src-git passwall https://github.com/OpenWrt-Actions/openwrt-package-lienol/tree/master/lienol/luci-app-passwall
-src-git lsm https://github.com/pymumu/luci-app-smartdns/tree/lede
-src-git sm https://github.com/pymumu/openwrt-smartdns
-src-git atmaterial https://github.com/openwrt-develop/luci-theme-atmaterial
+#src-git small https://github.com/kenzok8/small
+
+#src-git atmaterial https://github.com/openwrt-develop/luci-theme-atmaterial
  
