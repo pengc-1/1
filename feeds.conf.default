@@ -11,5 +11,5 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages 
 src-git small https://github.com/kenzok8/small
 src-git passwall https://github.com/openwrt-package-lienol/lienol/luci-app-passwall
-src-git ls https://github.com/pymumu/luci-app-smartdns;lede
-src-git sm https://github.com/pymumu/openwrt-smartdns
+#src-git ls https://github.com/pymumu/luci-app-smartdns;lede
+#src-git sm https://github.com/pymumu/openwrt-smartdns
